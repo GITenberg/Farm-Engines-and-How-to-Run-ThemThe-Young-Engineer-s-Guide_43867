@@ -1,0 +1,39 @@
+_repo: Farm-Engines-and-How-to-Run-ThemThe-Young-Engineer-s-Guide_43867
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43867-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephenson, James H.
+    gutenberg_agent_id: '42444'
+    url: http://www.gutenberg.org/2009/agents/42444
+description: An illustrated guide that will intrigue history buffs, small-scale farmers,
+  and armchair agriculturalists alike. Originally published in the early 1900s, this
+  classic, comprehensive handbook was referred to by young engineers as they prepared
+  for their licensing examinations. In addition to several hundred questions and answers
+  that were given as part of many exams, Farm Engines and How to Run Them fully describes
+  every part of a farm engine and boiler, giving complete directions for the safe
+  and economical management of both. Included are chapters on farm engine economy?with
+  special attention to traction and gasoline farm engines?and a chapter on the science
+  of successful threshing. The book abounds with precision artwork and cutaway illustrations
+  showing the different parts of a boiler and engine, and nearly every make of traction
+  engine?including those made by Case, Nichols and Shepard, and Buffalo Pitts. Farm
+  Engines and How to Run Them will appeal to everyone from farm and vehicle enthusiasts
+  to students of industrial technology and agricultural history. 75 b/w illustrations
+gutenberg_issued: '2013-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43867'
+  lccn: 03013348
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tractors'
+- !lcsh 'Farm engines'
+- !lcc 'TJ'
+- !lcsh 'Traction-engines'
+title: 'Farm Engines and How to Run Them: The Young Engineer''s Guide'
+url: http://www.gutenberg.org/ebooks/43867
